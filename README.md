@@ -2,7 +2,7 @@
 ### I am beginner Python developer
 Programming has burst into my life and immersed plunged me from head to toe. I enjoy programming in Python, learning new things for myself every time. The most important thing for me is not to stop at what I have achieved, but to develop daily.
 
-At the moment, I have 3 months of experience developing various projects such as:
+At the moment, I have 4 months of experience developing various projects such as:
 - Plugin for inverting geometry for organization
 - Application for the university
 
